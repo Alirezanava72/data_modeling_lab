@@ -1,4 +1,5 @@
 ## Data Modeling Lab
 
 
-![This data modeling-Lab](<../public/data modeling.jpeg>)
+
+![This is data modeling-Lab](<public/data modeling.jpeg>)
